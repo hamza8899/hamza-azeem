@@ -1535,6 +1535,7 @@ textarea.form-control, textarea.form-control:focus {
   -o-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+  height: 100%;
 }
 
 .portfolio-grid figure:hover img {
@@ -1553,6 +1554,7 @@ textarea.form-control, textarea.form-control:focus {
 .portfolio-item-img {
   position: relative;
   overflow: hidden;
+  height: 140px;
 }
 
 .portfolio-grid figure .portfolio-item-img:after {
